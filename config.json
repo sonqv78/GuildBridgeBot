@@ -4,22 +4,22 @@
         "port": 25565
     },
     "account": {
-        "email": ""
+        "email": "kenison2025@gmail.com"
     },
     "discord": {
-        "token": "",
-        "channel": "",
+        "token": "MTQyMDQyNjg1NTIwNjM1NTExNQ.Gukk-E.UkKtUo6DiNLZzdYaSl3RMSY6YkmgVPUzjz6qM8",
+        "channel": "1427199201825128568",
         "allowCrosschat": [],
         "officerChannel": "",
         "allowOfficerCrosschat": [],
         "commandRole": "",
         "overrideRole": "",
-        "ownerId": "",
-        "prefix": "!",
-        "webhookURL": "",
+        "ownerId": "1154184241496739840",
+        "prefix": "$",
+        "webhookURL": "https://discord.com/api/webhooks/1427875249336225855/OhMmbztPvHCz4XxEswz7AanTjt1sDsEEWn53C02ENO7Z1Ov3iXpmclhHYvSgXb1NYe0x",
         "officerWebhookURL": "",
         "debugWebhookURL": "",
-        "serverName": "",
+        "serverName": "Legioners",
         "ignoreCrosschatWarning": false
     },
     "redis": {
